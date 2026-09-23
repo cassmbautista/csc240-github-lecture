@@ -11,6 +11,7 @@ void swapScores(int& a, int& b) {
     a = b;
     b = temp;
     cout << temp << endl;  
+    // that was cool
 }
 
 int main() {
